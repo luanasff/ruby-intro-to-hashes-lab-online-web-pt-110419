@@ -3,7 +3,7 @@ railroads ={}
 end
 
 def actor
-actor = {:name => "Leonardo Dicaprio"}
+actor = {:name => }
 end
 
 def monopoly
