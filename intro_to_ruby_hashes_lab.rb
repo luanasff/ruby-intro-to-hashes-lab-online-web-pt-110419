@@ -8,6 +8,7 @@ end
 
 def monopoly
 	monopoly = {}
+	new_hash = {}
 
 end
 
