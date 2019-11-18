@@ -7,7 +7,7 @@ actor = {:name => "Leonardo Dicaprio"}
 end
 
 def monopoly
-railroads = {}
+
 
 end
 
